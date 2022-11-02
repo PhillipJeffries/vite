@@ -1,0 +1,2 @@
+npm create vite@latest <name || .>
+yarn create vite
